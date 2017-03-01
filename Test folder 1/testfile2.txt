@@ -1,1 +1,2 @@
 This is the first line of the file in the first folder, to be committed first.
+And finally, we add a second line to the folder file for commit 3.
